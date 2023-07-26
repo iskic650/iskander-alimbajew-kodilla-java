@@ -1,4 +1,4 @@
-package com.kodilla.testing;
+package main.java.com.kodilla.testing.weather.stub;
 
 import com.kodilla.testing.calculator.Calculator;
 
